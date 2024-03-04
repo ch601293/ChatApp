@@ -1,0 +1,2 @@
+# ChatApp
+使用react进行构建的响应式社交网站，css使用tailwindcss解决方案，服务端状态管理使用tanstack
